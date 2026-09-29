@@ -77,9 +77,9 @@
 │  ROLE       : Cybersecurity Student │
 │  FOCUS      : Offensive Security    │
 │  INTERESTS  : Pentesting            │
-│               Bug Bounty             │
-│               Web Security           │
-│               Networking             │
+│               Bug Bounty            │
+│               Web Security          │
+│               Networking            │
 │                                     │
 └─────────────────────────────────────┘
 ```
@@ -192,10 +192,10 @@ Projeto acadêmico do Bootcamp Santander 2025, desenvolvido para estudar conceit
 ╭──────────────────────────────────────────────────────────────╮
 │                                                              │
 │   KALI LINUX          METASPLOITABLE 2       VIRTUALBOX      │
-│       │                       │                   │           │
-│       └───────────────┬───────┴───────────────────┘           │
+│       │                       │                   │          │
+│       └───────────────┬───────┴───────────────────┘          │
 │                       │                                      │
-│                 SECURITY LAB                                │
+│                 SECURITY LAB                                 │
 │                       │                                      │
 │          ┌────────────┼────────────┐                         │
 │          │            │            │                         │
@@ -236,8 +236,8 @@ Projeto acadêmico do Bootcamp Santander 2025, desenvolvido para estudar conceit
 ┌────────────────────────────────────────────────────────────┐
 │                                                            │
 │       SECURITY  •  LEARN  •  BUILD  •  REPEAT              │
-│                                                            │
-│                         🐦                                 │
+│                                                            │ 
+│                        🐦                                  │
 │                                                            │
 └────────────────────────────────────────────────────────────┘
 ```
